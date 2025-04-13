@@ -1,0 +1,5 @@
+.venv
+.venv/
+.venv_curso
+.venv_curso/
+.venv_curso*
